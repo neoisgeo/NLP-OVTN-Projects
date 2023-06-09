@@ -1,1 +1,86 @@
-Placeholder
+NLP Tool:
+IBM Watson 
+Instruction for Log In
+IBM Cloud
+Link: https://cloud.ibm.com/resources
+In Resource Summary, you could get access to all the services (NLU, WKS…), and add new service or storage.
+Watson Studio 
+IBM cloud Pak for Data: https://dataplatform.cloud.ibm.com/ 
+Function: Create notebooks, Upload data, and connect to service such as NLU
+Watson Knowledge Studio  (WKS)
+Preparation
+Create entity type system, dictionary, relation types and Upload them
+Prepare documents to train 
+Functions
+Assets
+Entity Types
+Create the entity type (Organization, Person…) 
+Or Upload by system file
+Documents
+Upload the document we want to analyze 
+Relation Types 
+Dictionaries
+Upload using dictionary format
+Machine Learning Model
+Pre-annotation 
+Dictionaries (where to see the results)
+Machine learning models
+NLU
+Annotations
+Annotation Task—>Add task
+Create Annotation Sets (choose the documents you want to be manually annotated) and Select sets
+Manually annotate—> Submit all (100% completed)—>accept (to ground truth)
+Ground Truth: Watson use it to train the model on a new domain
+Performance
+Train and Evaluate
+Statistics
+Most commonly annotated mentions
+Relations 
+Coreference 
+3 Primary evaluating statistics
+Precision 
+Fraction of machine learning annotator’s output that is correct 
+Recall 
+Fraction of correct annotations that ML annotators successfully captures
+F1 score 
+Weighted average of precision and recall 
+Versions 
+Create a version 
+Deploy to Watson Discovery or NLU
+Model Deployment Status (use Service instance ID) 
+IBM Natural Language Understanding (NLU) 
+Application: 
+Use Notebook in Watson Studio to connect to NLU instance 
+Export results to Watson studio 
+Features: Sentiment, Emotion, Keywords, Entities, Categories, Concept, Relations, Semantic Roles 
+Documentation: https://cloud.ibm.com/apidocs/natural-language-understanding 
+Method to apply Customized Model: Change “Service instance ID” in the NLU url 
+
+Google Auto ML 
+
+Features: Entity, Sentiment, Category, Syntax
+Link: https://cloud.google.com/natural-language 
+
+2. Dataset 
+Blog Dataset 
+Description: 11 pieces of Brad Feld’s online blog “Feld’s Thoughts” 
+Source Website: https://feld.com/ 
+
+Twitter Dataset 
+Description: The Customer Support on Twitter dataset from 20 brands (such as AppleSupport, AmazonHelp, UberSupport…….)
+Link: https://www.kaggle.com/thoughtvector/customer-support-on-twitter 
+
+News Dataset
+Description: News publications include the New York Times, Breitbart, CNN, Business Insider, the Atlantic, Fox News, Talking Points Memo, Buzzfeed News, National Review, New York Post, the Guardian, NPR, Reuters, Vox, and the Washington Post. 
+Link: https://www.kaggle.com/snapcrack/all-the-news 
+
+RAND Dataset 
+Description: RAND Project AIR FORCE research Publitioned Research 
+Source Website: https://www.rand.org/pubs.html 
+
+
+3. Additional Python Scripts
+Topic Modeling
+Features: Topic Modeling, word vector and relevance score
+Methods: LDA model and FastText Package
+

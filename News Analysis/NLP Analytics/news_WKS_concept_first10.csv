@@ -1,0 +1,101 @@
+news_index,concept,revelance
+1,President of the United States,0.952251
+1,Barack Obama,0.791888
+1,Health care,0.681595
+1,United States Capitol,0.588216
+1,Bill Clinton,0.520211
+1,Donald Trump,0.518514
+1,Law,0.512229
+1,"Washington, D.C.",0.502018
+1,Health economics,0.49701
+1,United States Congress,0.483576
+2,Police,0.965017
+2,Crime,0.728021
+2,Manhattan,0.624281
+2,The Bronx,0.612115
+2,Constable,0.591354
+2,New York City,0.568123
+2,Detective,0.516513
+2,Criminal Investigation Department,0.458262
+2,Violence,0.369603
+2,Police officer,0.364636
+3,Walt Disney,0.958732
+3,The Walt Disney Company,0.707026
+3,Bambi,0.577315
+3,Overseas Chinese,0.553135
+3,Tyrus Wong,0.475091
+3,Roy E. Disney,0.47292
+3,"Burbank, California",0.462265
+3,Chinese American history,0.446044
+3,United States,0.424011
+3,American Broadcasting Company,0.420785
+4,Death,0.921464
+4,NA,NA
+4,NA,NA
+4,NA,NA
+4,NA,NA
+4,NA,NA
+4,NA,NA
+4,NA,NA
+4,NA,NA
+4,NA,NA
+5,Nuclear weapon,0.989222
+5,Intercontinental ballistic missile,0.867595
+5,Missile,0.781893
+5,South Korea,0.773988
+5,World War II,0.735354
+5,Ballistic missile,0.731483
+5,Cold War,0.723258
+5,Nuclear disarmament,0.626389
+5,Korean language,0.622975
+5,Nuclear warfare,0.619863
+6,Elizabeth II of the United Kingdom,0.968364
+6,Bhumibol Adulyadej,0.541584
+6,Elizabeth Bowes-Lyon,0.523046
+6,Head of state,0.502547
+6,Constitutional monarchy,0.498141
+6,George VI of the United Kingdom,0.465072
+6,"Prince Philip, Duke of Edinburgh",0.456482
+6,Victoria of the United Kingdom,0.41982
+6,Line of succession to the British throne,0.387276
+6,"Prince Andrew, Duke of York",0.387256
+7,Republic of China,0.96771
+7,People's Republic of China,0.796662
+7,China,0.641955
+7,Taiwan,0.634754
+7,Kuomintang,0.611294
+7,Chen Shui-bian,0.588914
+7,United States,0.545826
+7,Democratic Progressive Party,0.510074
+7,One-China policy,0.474104
+7,South China Sea,0.460861
+8,Obesity,0.960168
+8,Weight loss,0.560865
+8,Nutrition,0.494613
+8,Appetite,0.486607
+8,Physical exercise,0.460159
+8,Cancer,0.459431
+8,Dieting,0.451754
+8,Adipose tissue,0.449586
+8,Bariatric surgery,0.438642
+8,Pancreatic cancer,0.357167
+9,Zsa Zsa Gabor,0.939155
+9,Elle,0.557087
+9,NA,NA
+9,NA,NA
+9,NA,NA
+9,NA,NA
+9,NA,NA
+9,NA,NA
+9,NA,NA
+9,NA,NA
+10,Family,0.951057
+10,Jesus,0.495969
+10,The Bronx,0.484976
+10,The Time,0.375876
+10,Cancer,0.364465
+10,NA,NA
+10,NA,NA
+10,NA,NA
+10,NA,NA
+10,NA,NA

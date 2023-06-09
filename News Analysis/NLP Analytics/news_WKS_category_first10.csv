@@ -1,0 +1,101 @@
+news_index,categories,categories_score
+1,"/law, govt and politics/government",0.942463
+1,"/law, govt and politics/government/executive branch",0.826245
+1,"/law, govt and politics/politics/elections/presidential elections",0.653997
+1,NA,NA
+1,NA,NA
+1,NA,NA
+1,NA,NA
+1,NA,NA
+1,NA,NA
+1,NA,NA
+2,"/law, govt and politics",0.955754
+2,/society/crime/personal offense/homicide,0.945121
+2,"/law, govt and politics/law enforcement",0.829446
+2,/society/unrest and war,0.688798
+2,/society/crime/personal offense/assault,0.679701
+2,/family and parenting/children,0.60811
+2,/society/crime/property crime/robbery,0.59624
+2,/business and industrial/business operations,0.552504
+2,NA,NA
+2,NA,NA
+3,"/law, govt and politics",0.715714
+3,/art and entertainment/comics and animation,0.715253
+3,"/law, govt and politics/immigration",0.69118
+3,/society/unrest and war,0.679621
+3,/style and fashion/body art,0.673068
+3,/art and entertainment/movies,0.637376
+3,/family and parenting/children,0.630986
+3,/art and entertainment/shows and events,0.603277
+3,/society/senior living,0.563555
+3,/travel/traveling with kids,0.558178
+4,/society/unrest and war,0.81503
+4,/art and entertainment/shows and events,0.755267
+4,/art and entertainment/music/recording industry,0.701384
+4,/art and entertainment/movies,0.656224
+4,/art and entertainment/movies and tv/movies,0.651443
+4,/art and entertainment/music/music reference,0.609096
+4,"/law, govt and politics",0.598334
+4,/society/senior living,0.5969
+4,"/law, govt and politics/politics",0.596273
+4,/art and entertainment/movies and tv/action,0.594538
+5,"/law, govt and politics/armed forces",0.882813
+5,"/law, govt and politics/armed forces/air force",0.755235
+5,/society/unrest and war,0.748317
+5,/business and industrial/business operations,0.645244
+5,/business and industrial/war industry/weaponry,0.627827
+5,"/law, govt and politics/government/heads of state",0.601094
+5,NA,NA
+5,NA,NA
+5,NA,NA
+5,NA,NA
+6,"/law, govt and politics/government/heads of state",0.747299
+6,"/law, govt and politics/government/parliament",0.624949
+6,/society/unrest and war,0.610353
+6,/religion and spirituality/christianity/catholicism,0.608629
+6,/society/social institution,0.583027
+6,/society/social institution/marriage,0.583027
+6,/society/social institution/divorce,0.557707
+6,/religion and spirituality/christianity/protestantism,0.534279
+6,"/law, govt and politics/politics",0.515811
+6,NA,NA
+7,/society/unrest and war,0.942091
+7,"/law, govt and politics",0.876325
+7,"/law, govt and politics/politics",0.787096
+7,"/law, govt and politics/politics/foreign policy",0.719582
+7,"/law, govt and politics/armed forces",0.700327
+7,NA,NA
+7,NA,NA
+7,NA,NA
+7,NA,NA
+7,NA,NA
+8,/health and fitness/weight loss,0.998235
+8,NA,NA
+8,NA,NA
+8,NA,NA
+8,NA,NA
+8,NA,NA
+8,NA,NA
+8,NA,NA
+8,NA,NA
+8,NA,NA
+9,/society/social institution/divorce,0.874489
+9,/society/social institution/marriage,0.783557
+9,/style and fashion,0.687343
+9,/society/social institution/marriage/weddings,0.636163
+9,/society/dating,0.621118
+9,/art and entertainment/shows and events,0.611075
+9,/family and parenting/children,0.597468
+9,/art and entertainment/music/music reference,0.596847
+9,/family and parenting/parenting teens,0.55188
+9,/style and fashion/clothing,0.5362
+10,/society/social institution/divorce,0.919519
+10,/family and parenting/children,0.903942
+10,/travel/traveling with kids,0.708749
+10,/business and industrial/business operations/business plans,0.660346
+10,/health and fitness,0.638652
+10,/society/unrest and war,0.608012
+10,/society/dating,0.606962
+10,NA,NA
+10,NA,NA
+10,NA,NA
